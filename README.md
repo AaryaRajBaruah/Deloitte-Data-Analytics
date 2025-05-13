@@ -1,1 +1,57 @@
-# Deloitte-Data-Analytics
+# Deloitte Australia Data Analytics Job Simulation (Forage)
+
+🧑‍💼 **About Deloitte**
+Deloitte is one of the world’s leading professional services firms, specializing in consulting, audit, risk advisory, and data-driven business solutions. This job simulation was offered through Forage as a way to experience real-world projects from the Deloitte Forensic Technology team.
+
+🔍 **About This Job Simulation**
+This simulation provided a hands-on experience in data analytics applied to forensic investigations. I worked on tasks that included analyzing financial transaction data, building a visual dashboard, and communicating key insights to stakeholders.
+
+The tasks revolved around identifying potential risks like fraud, bribery, and financial misconduct using tools like Excel and Tableau.
+
+---
+
+📂 **Project Tasks Overview**
+
+**Task 1: Data Classification in Excel**
+- Cleaned and sorted financial transaction data using Excel
+- Applied logic and formulas to classify entries by category
+
+**Task 2: Tableau Dashboard**
+- Built an interactive dashboard to highlight suspicious trends
+- Visualized categorized data for executive-level presentations
+
+**Task 3: Summary of Findings**
+- Identified patterns and irregularities in financial activity
+- Delivered concise business recommendations based on evidence
+
+---
+
+📊 **Skills Gained**
+- Data Cleaning & Classification (Excel)
+- Dashboard Creation & Data Visualization (Tableau)
+- Analytical Thinking & Business Insight
+- Forensic Data Interpretation
+
+---
+
+📁 **Files in This Repository**
+| File | Description |
+|------|-------------|
+| `Task-1_Deloitte_Excel` | [Cleaned and categorized transaction data ](https://docs.google.com/spreadsheets/d/1std6vtDMoJr83DQITB2aWjtxM4qcsJ2S/edit?usp=sharing&ouid=110653952473558839928&rtpof=true&sd=true)|
+| `Task-2_Tableau_Dashboard` |[ Tableau dashboard](https://public.tableau.com/views/DeloitteForensicDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+
+---
+
+✅ **Final Recommendations**
+- Identify unusual spending spikes using categorized transaction data
+- Monitor specific vendors with repeated large amounts
+- Use Tableau visuals to aid internal forensic audits
+- Recommend tighter control systems based on transactional trends
+
+---
+
+📜 **Certificate**
+This project was part of the Deloitte Australia Data Analytics Virtual Experience via Forage 
+
+---
+
